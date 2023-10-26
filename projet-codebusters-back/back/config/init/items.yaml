@@ -1,0 +1,279 @@
+# Objets énigmes
+
+book:
+  name: book
+  x: 31.1% #(x)
+  y: 43% #(y)
+  width: 6.2%
+  height: 8.6%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/book.png"
+  status: 0
+  type: clickable
+  description1: "A lire en diagonale ?"
+
+labyrinth:
+  name: labyrinth
+  x: 82.3% #(x)
+  y: 11.2% #(y)
+  width: 13.3%
+  height: 32.1%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/lab.png"
+  status: 0
+  type: clickable
+  description1: "C'est la coupe de feu !"
+
+kaamelott:
+  name: kaamelott
+  x: 4% #(x)
+  y: 8.6% #(y)
+  width: 30.2%
+  height: 28.2%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/kaamelott.jpg"
+  status: 0
+  type: clickable
+  description1: "Le gras, c'est la vie !"
+
+carlin:
+  name: carlin
+  x: 35.35% #(x)
+  y: 24.5% #(y)
+  width: 7.6%
+  height: 12%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/carlin.png"
+  status: 0
+  type: clickable
+  description1: "J'ai comme l'impression de l'avoir déjà croisé en costume...C'était quoi son prénom déjà ?"
+
+code:
+  name: code
+  x: 45.45% #(x)
+  y: 52.7% #(y)
+  width: 2%
+  height: 3.6%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/code.png"
+  status: 0
+  type: clickable
+  description1: "C'est tout cassé T_T"
+
+drawer_r:
+  name: drawer_r
+  x: 67.2% #(x)
+  y: 88.08% #(y)
+  width: 1.1%
+  height: 2%
+  borderradius: 50%
+  picture1: "http://3.238.70.10/images/drawer_r.png"
+  status: 0
+  type: clickable
+  description1: "Faut vraiment que je range ce tiroir..."
+
+button:
+  name: button
+  x: 87.8% #(x)
+  y: 90.45% #(y)
+  width: 1.55%
+  height: 2.7%
+  borderradius: 50%
+  picture1: "http://3.238.70.10/images/button.png"
+  status: 0
+  type: inputable
+  description1: "Ca sent la mise en prod lundi..."
+
+memo_rebus:
+  name: memo_rebus
+  x: 51.3% #(x)
+  y: 19% #(y)
+  width: 5.85%
+  height: 9.6%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/memo_rebus.png"
+  status: 0
+  type: clickable
+  description1: "//! important !\\\\"
+
+memo:
+  name: memo
+  x: 60.1% #(x)
+  y: 17.2% #(y)
+  width: 5.8%
+  height: 10%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/memo.png"
+  status: 0
+  type: clickable
+  description1: "//! fun !\\\\"
+
+duck:
+  name: duck
+  x: 68.6% #(x)
+  y: 81.6% #(y)
+  width: 2.3%
+  height: 6%
+  borderradius: 50%
+  status: 0
+  type: nopicture
+  description1: "Souvent, dans ma vie de dev', quand j'ai des problèmes, je discute avec Paul le canard. C'est vraiment un pote ! Je lui explique ce que je veux faire, je reformule, on parle de bugs et de mes problèmes pendant des heures...et même si il ne me répond jamais...il m'écoute et me debug chaque fois ! Un amour de canard mon p'tit Polo en plastique !"
+
+mouse:
+  name: mouse
+  x: 64.4% #(x)
+  y: 94% #(y)
+  width: 2.7%
+  height: 3.5%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Jerry : Il est vraiment chelou ce chat sur l'étagère..."
+
+cat:
+  name: cat
+  x: 38.5% #(x)
+  y: 40% #(y)
+  width: 4.2%
+  height: 11.7%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Un maneki-neko (招き猫, maneki neko?, aussi appelé chat porte-bonheur ou Tom pour les intimes) est une statue traditionnelle japonaise en céramique ou en  porcelaine, représentant un chat assis et levant la (ou les) patte(s) au niveau de l'oreille, et que l'on trouve fréquemment sur les devantures des magasins, près des caisses dans les centres commerciaux, dans les salons de pachinko, etc."
+
+# Maneki (招き?) vient du verbe maneku (招く?) qui en japonais signifie « inviter » (dans le sens de faire venir) ou « saluer », et neko (猫?) désigne le « chat ». Il s'agit donc littéralement du « chat qui invite ». La tradition veut qu'on mette un de ces chats levant la patte dans les magasins pour attirer la fortune (pécuniaire). La patte gauche est censée attirer les clients, la patte droite l'argent. Il existe ainsi des chats levant les deux pattes et plus rarement les quatre pattes. On trouve souvent des maneki-neko dans les foyers, notamment sous forme de tirelires, de porte-clefs ou d'autres objets.
+
+rabbit:
+  name: rabbit
+  x: 37.6% #(x)
+  y: 76.5% #(y)
+  width: 2.8% 
+  height: 8%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Top ! Lapin blanc anthropomorphe, j'exerce en tant que toon la profession d'acteur pour Maroon Cartoons à Hollywood dans les années 1940. Je bégaye souvent, je suis anxieux, gaffeur et je porte une salopette rouge et un nœud papillon. Anti-héros dans des courts métrages d'animation dont le sujet est une femme qui surveille Baby Herman. Je suis ? Je suis ?"
+
+cup:
+  name: cup
+  x: 27.8% #(x)
+  y: 48.6% #(y)
+  width: 2.3%
+  height: 2.8%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Trophée du Rappeur-Codeur 2021 : \"Nettement trop chaud on paye pas d’mine, mais dans c’rap game on est admin\""
+
+controller:
+  name: controller
+  x: 12.5% #(x)
+  y: 81% #(y)
+  width: 3.1%
+  height: 3%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Y'a un projet à mettre en prod c'est pas l'heure de jouer !"
+  
+warhammer:
+  name: warhammer
+  x: 27.7% #(x)
+  y: 86.5% #(y)
+  width: 5.6%
+  height: 12.5%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Une de mes passions c'est d'acheter plein de WarHammers, de les mettre dans un tiroir et de ne jamais les peindre ><"
+
+car:
+  name: car
+  x: 18.6% #(x)
+  y: 47.8% #(y)
+  width: 8%
+  height: 2.9%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d’une voiture, autant en choisir une qui ait d'la gueule !"
+
+ie:
+  name: ie
+  x: 45.45% #(x)
+  y: 64.5% #(y)
+  width: 2%
+  height: 3.6%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/code.png"
+  status: 0
+  type: nopicture
+  description1: "Tu as 30 min pour finir le jeu ça parait risqué d'essayer de faire démarrer Internet Explorer..."
+
+matrix:
+  name: matrix
+  x: 70.4% #(x)
+  y: 26.9% #(y)
+  width: 10.85%
+  height: 27.5%
+  borderradius: 0%
+  picture1: "http://3.238.70.10/images/code.png"
+  status: 0
+  type: nopicture
+  description1: "La légende raconte que le nom de ce personnage est inspiré de la meilleure promo de tous les temps de l'école O'Clock."
+
+coffee:
+  name: coffee
+  x: 43.8% #(x)
+  y: 81.8% #(y)
+  width: 2.45% 
+  height: 4%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Mais il n'est jamais froid ce café ?"
+
+paper:
+  name: paper
+  x: 54.9% #(x)
+  y: 94% #(y)
+  width: 6% 
+  height: 4%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Une envie pressante ? La mise en prod te stresse ?"
+
+drawer_l:
+  name: drawer_l
+  x: 39% #(x)
+  y: 88.1% #(y)
+  width: 1.05%
+  height: 2%
+  borderradius: 50%
+  picture1: "http://3.238.70.10/images/drawer_l.png"
+  status: 0
+  type: clickable
+  description1: "Je n'aurais pas du l'ouvir..."
+
+banana:
+  name: banana
+  x: 48% #(x)
+  y: 92.4% #(y)
+  width: 1.5% 
+  height: 5.5%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "BANNNAAAANNNNAAAAAAAHHH !!"
+
+exit:
+  name: exit
+  x: 78.5% #(x)
+  y: 78.7% #(y)
+  width: 7.75% 
+  height: 4.9%
+  borderradius: 0%
+  status: 0
+  type: nopicture
+  description1: "Le week-end c'est par la !"
